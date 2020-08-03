@@ -8,7 +8,7 @@
 ## How to host the bot
 - Go to the [Discord Developer Portal](https://discord.com/developers/applications) and create an application
 - Name it however you want
-![create application](https://elon-musk.is-inside.me/iSf0cExt.png)
+![create application](https://elon-musk.is-inside.me/iSf0cExt.png){width=100px}
 - On the left press **Bot** and then **Add Bot**
 - Copy the token, we'll need it later
 - Download the latest version of [Python](https://www.python.org/downloads/) and select **Add to path** during the installation
