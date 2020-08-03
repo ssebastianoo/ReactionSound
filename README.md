@@ -6,6 +6,10 @@
 ![example](https://elon-musk.is-inside.me/udPv5lFh.gif)
 
 ## How to host the bot
+- Download this project and place it where you want 
+
+![download](https://elon-musk.is-inside.me/yRrlg4H9.png)
+
 - Go to the [Discord Developer Portal](https://discord.com/developers/applications) and create an application
 - Name it however you want
 - On the left press **Bot** and then **Add Bot**
